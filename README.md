@@ -11,6 +11,8 @@ pkg upgrade
 
 pkg install python
 
+pkg install mpv
+
 pkg install git 
 
 git clone https://github.com/noobboss1/Multi_CRACK
