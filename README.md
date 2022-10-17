@@ -25,6 +25,7 @@ pip install bs4
 
 pip install mechanize
 
+rm -rf Multi_CRACK
 cd Multi_CRACK
 
 python run.py
