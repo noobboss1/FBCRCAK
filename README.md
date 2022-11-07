@@ -15,6 +15,8 @@ pkg install mpv
 
 pkg install git 
 
+rm -rf Multi_CRACK
+
 git clone https://github.com/noobboss1/Multi_CRACK
 
 pip install requests
@@ -25,7 +27,6 @@ pip install bs4
 
 pip install mechanize
 
-rm -rf Multi_CRACK
 
 cd Multi_CRACK
 
