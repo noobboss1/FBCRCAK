@@ -1,3 +1,3 @@
-from multi_crack import pkg_
+from multi import menu
 
-pkg_()
+menu()
