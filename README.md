@@ -30,4 +30,4 @@ pip install mechanize
 
 cd Multi_CRACK
 
-python run.py
+python Run.py
